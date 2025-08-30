@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thauã  
 
-<!--
-**thaua-mengue/thaua-mengue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend | Java & Kotlin | Spring Boot  
+🚀 Apaixonado por criar soluções escaláveis, performáticas e bem estruturadas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mongodb,postgres,redis,docker,kubernetes,aws,kafka,git,github,jenkins,idea" />
+</p>
+
+---
+
+## ⚡ Atividade  
+
+![Snake animation](https://github.com/thaua-mengue/thaua-mengue/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Onde me encontrar  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thauã-mengue-3574301a3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thaua.mengue@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
